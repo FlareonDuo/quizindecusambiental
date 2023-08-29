@@ -1,0 +1,29 @@
+body {
+  background-color: #e0ffe0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+#quiz-container {
+  margin: 20px;
+}
+
+.question {
+  margin-bottom: 10px;
+}
+
+#finish-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
